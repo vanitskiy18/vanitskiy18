@@ -1,6 +1,6 @@
 # Hi, I'm Arseniy 👋
 
-Economics student at the University of Warsaw interested in data analysis, programming and quantitative economics.
+Economics student at the University of Warsaw interested in data analysis, programming and quantitative approaches to economics.
 
 ## 🔎 Interests
 - Data analysis
@@ -9,10 +9,12 @@ Economics student at the University of Warsaw interested in data analysis, progr
 - Technology in economics
 
 ## 🛠 Tools & Technologies
-- Python
-- R
-- Excel
-- Git / GitHub
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📚 Currently learning
 - Statistics
@@ -27,3 +29,9 @@ Economics student at the University of Warsaw interested in data analysis, progr
 ## 📫 Contacts
 LinkedIn:  
 https://linkedin.com/in/arseniy-vanitskiy
+
+## 📊 GitHub Stats
+
+![Arseniy's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanitskiy18&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanitskiy18&layout=compact)
