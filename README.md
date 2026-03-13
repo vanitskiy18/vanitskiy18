@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Arseniy 👋
 
-<!--
-**vanitskiy18/vanitskiy18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economics student at the University of Warsaw interested in data analysis, programming and quantitative economics.
 
-Here are some ideas to get you started:
+## 🔎 Interests
+- Data analysis
+- Quantitative economics
+- Macroeconomics and finance
+- Technology in economics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools & Technologies
+- Python
+- R
+- Excel
+- Git / GitHub
+
+## 📚 Currently learning
+- Statistics
+- Data analysis
+- Python for data science
+
+## 🌍 Languages
+- Russian — native
+- English — C1
+- Polish — B2
+
+## 📫 Contacts
+LinkedIn:  
+https://linkedin.com/in/arseniy-vanitskiy
