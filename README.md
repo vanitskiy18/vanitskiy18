@@ -35,5 +35,4 @@ https://linkedin.com/in/arseniy-vanitskiy
 ## 📊 GitHub Stats
 
 ![Arseniy's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanitskiy18&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanitskiy18&layout=compact&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanitskiy18&layout=compact&hide=html&cache_seconds=1800)
