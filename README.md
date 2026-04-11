@@ -34,6 +34,6 @@ https://linkedin.com/in/arseniy-vanitskiy
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-8emzhy6jx-vanitskiy18s-projects.vercel.app/api?username=vanitskiy18&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-1w9kpkvpc-vanitskiy18s-projects.vercel.app/api?username=vanitskiy18&show_icons=true&theme=tokyonight&v=1)
 
-![Top Languages](https://github-readme-stats-8emzhy6jx-vanitskiy18s-projects.vercel.app/api/top-langs/?username=vanitskiy18&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-1w9kpkvpc-vanitskiy18s-projects.vercel.app/api/top-langs/?username=vanitskiy18&layout=compact&theme=tokyonight&v=1)
